@@ -16,10 +16,10 @@
 # Les BTS et BUT
 Voici un petit descriptif des différentes filières permettant de travailler dans l'informatique :
 
-- [Le BTS](https://diplomeo.com/bts) est une formation de deux ans proposé par des lycées.  Elle offre une formation très pratique et aboutie à une insertion professionnelle dès la fin de la formation.
+- [Le BTS](https://diplomeo.com/bts) est une formation de deux ans proposée par des lycées.  Elle offre une formation très pratique et aboutit à une insertion professionnelle dès la fin de la formation.
 - [Le BUT](https://diplomeo.com/dut) se fait en 3 ans (anciennement DUT en 2 ans). Cette formation dans les universités permet de rejoindre certaines écoles d'ingénieur, de partir en licence ou de rejoindre le milieu professionnel.
 - [La licence](https://diplomeo.com/licence) est enseignée en université et se fait en 3 ans. Cette formation théorique permet de faire un Master pour 5 ans d'étude au total. 
-- Les écoles d'ingénieurs (ou prépas intégrées) proposent des formations en 5 ans. Il y a souvent 2 ans de cycle général suivit de 3 ans de spécialité. Les élèves sont le plus souvent embauché à la suite de la formation  mais il est aussi possible de faire un doctorat (bac+8).
+- Les écoles d'ingénieurs (ou prépas intégrées) proposent des formations en 5 ans. Il y a souvent 2 ans de cycle général suivit de 3 ans de spécialité. Les élèves sont le plus souvent embauchés à la suite de la formation  mais il est aussi possible de faire un doctorat (bac+8).
 - [Les prépas](https://diplomeo.com/prepa) se font en deux ans et permettent de rejoindre les écoles d'ingénieurs et les licences les plus prestigieuses.
 
 Vous pouvez retrouver la liste des formations en informatique [à cette adresse](https://cien.gouv.mc/content/download/430778/4871791/file/Les%20Fili%C3%A8res%20de%20l%27informatique%202021.pdf)
@@ -89,9 +89,9 @@ Il faut savoir que rien n'est encore fixé et que ce sont des engagements de min
 -L'X : 30 places 
 -Les ENS : 30 places
 
--Concours Mines-ponts : minimum 75 places (dont 15 pour l'ENSTA, 18 pour Telecom Paris, une dizaine pour SUPAERO)
+-Concours Mines-ponts : minimum 75 places (dont 15 pour l'ENSTA, 18 pour Telecom Paris, 10 pour l'ENSAE, une dizaine pour SUPAERO)
 
--CCINP : au moins 200 places (dont 40 pour L'Ensimag)
+-CCINP : au moins 200 places (dont 40 pour l'Ensimag)
 
 
 ## Les prépas MP2I en France
