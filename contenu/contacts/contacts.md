@@ -16,7 +16,7 @@ Pour demander un renseignement à un élève de MP2I d'un établissement bien pr
 -  Clemenceau (Nantes - 44) [indisponible](mailto:)
 -  Thiers (Marseille 1er Arrondissement - 13) [indisponible](mailto:)
 -  Louis Thuillier (Amiens - 80) [indisponible](mailto:)
--  Champollion (Grenoble - 38) [indisponible](mailto:)
+-  Champollion (Grenoble - 38) : ganda#3558 sur discord
 -  Claude Fauriel (Saint-Etienne - 42) [indisponible](mailto:)
 -  Louis Le Grand (Paris 5e Arrondissement - 75) [indisponible](mailto:)
 -  Victor Hugo (Besançon - 25) [indisponible](mailto:)
